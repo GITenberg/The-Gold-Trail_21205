@@ -1,0 +1,37 @@
+_repo: The-Gold-Trail_21205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: English novelist Harold E. Bindloss spent a number of years in Western
+  Canada during his youth. Because of these experiences, many of his novels deal with
+  the prairies and their settlement. He produced over 30 such novels in addition to
+  many other works, including In the Niger Country (1898), Wide Dominion (1899), Damaged
+  Reputation (1908), Masters of the Wheat-Lands (1910), Carmen's Messenger (1917),
+  The Girl From Keller's (1917), Sadie's Conquest (1918), Lister's Great Adventure
+  (1920), Pine-Creek Ranch (1926), Border Trail (1931) Jungle Gold (1932) and Forbidden
+  Rivers (1936).
+gutenberg_issued: '2007-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Canada, Western -- Design and construction -- Fiction'
+- !lcsh 'Gold miners -- Canada, Western -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Railroad construction workers -- Canada, Western -- Fiction'
+- !lcsh 'Canada, Western -- Gold discoveries -- Fiction'
+title: The Gold Trail
+url: http://www.gutenberg.org/ebooks/21205
